@@ -1,4 +1,4 @@
-activity Java::com.github.damned.ruboto.FirstRubotoActivity
+activity Java::com.github.damned.ruboto.ScorerActivity
 
 setup do |activity|
   start = Time.now

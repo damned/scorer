@@ -3,7 +3,7 @@ require 'ruboto/util/toast'
 
 ruboto_import_widgets :Button, :LinearLayout, :TextView, :EditText
 
-class FirstRubotoActivity
+class ScorerActivity
   def onCreate(bundle)
     super
     set_title 'Scorer'
